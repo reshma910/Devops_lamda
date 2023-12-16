@@ -5,7 +5,7 @@
 - Create a function to start an ec2 instance at 10 AM IST if the instance has tag ec2\_start = "true".
 - Create a function to stop an ec2 instance at 10 PM IST if the instance has tag ec2\_stop = "true".
 - Outcome is ec2 instance should start or stop automatically based on cron job schedule.
-- Keep the code stuff into the git repository.
+- Keep the code stuff into the git repo.
 - Document all the execution steps.
 
 **Prerequisites:**
